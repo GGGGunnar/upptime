@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ny-ordre.no.ico",
     "slug": "ny-ordre",
     "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "96.89%",
-    "time": 1064,
-    "timeDay": 1064,
-    "timeWeek": 1064,
-    "timeMonth": 1064,
-    "timeYear": 1064,
-    "dailyMinutesDown": {
-      "2024-09-08": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1020,
+    "timeDay": 782,
+    "timeWeek": 1020,
+    "timeMonth": 1020,
+    "timeYear": 1020,
+    "dailyMinutesDown": {}
   }
 ]
