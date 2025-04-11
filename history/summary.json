@@ -4,7 +4,7 @@
     "url": "https://ny-ordre.no",
     "icon": "https://icons.duckduckgo.com/ip3/ny-ordre.no.ico",
     "slug": "ny-ordre",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 1532,
     "timeDay": 1246,
     "timeWeek": 1431,
-    "timeMonth": 1697,
+    "timeMonth": 1700,
     "timeYear": 1532,
     "dailyMinutesDown": {
       "2025-03-10": 26,
