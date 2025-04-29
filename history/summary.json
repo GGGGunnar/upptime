@@ -1,20 +1,20 @@
 [
   {
-    "name": "myordre",
+    "name": "nyordre",
     "url": "https://nyordre.no",
     "icon": "https://icons.duckduckgo.com/ip3/nyordre.no.ico",
-    "slug": "myordre",
+    "slug": "nyordre",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 817,
-    "timeWeek": 817,
-    "timeMonth": 817,
-    "timeYear": 817,
+    "time": 776,
+    "timeDay": 776,
+    "timeWeek": 776,
+    "timeMonth": 776,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   }
 ]
