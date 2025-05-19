@@ -4,19 +4,19 @@
     "url": "https://nyordre.no",
     "icon": "https://icons.duckduckgo.com/ip3/nyordre.no.ico",
     "slug": "nyordre",
-    "status": "up",
-    "uptime": "91.66%",
-    "uptimeDay": "86.59%",
-    "uptimeWeek": "88.28%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "91.66%",
+    "status": "down",
+    "uptime": "91.57%",
+    "uptimeDay": "88.28%",
+    "uptimeWeek": "88.36%",
+    "uptimeMonth": "91.57%",
+    "uptimeYear": "91.57%",
     "time": 825,
-    "timeDay": 858,
-    "timeWeek": 850,
+    "timeDay": 861,
+    "timeWeek": 851,
     "timeMonth": 825,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2025-05-19": 52,
+      "2025-05-19": 44,
       "2025-05-18": 211,
       "2025-05-17": 225,
       "2025-05-16": 118,
@@ -31,7 +31,7 @@
       "2025-05-07": 38,
       "2025-05-06": 155,
       "2025-05-05": 200,
-      "2025-05-04": 83
+      "2025-05-04": 120
     }
   }
 ]
